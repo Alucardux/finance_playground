@@ -8,6 +8,9 @@ dependencies:
   - python=3.7.6
   - pip=20.0.2
   - matplotlib=3.2.1
+  - lxml
+  - html5lib
+  - beautifulsoup4
   - pip:
     - pandas==1.0.3
     - numpy==1.18.3
@@ -25,3 +28,4 @@ dependencies:
     - jupyter==1.0.0
     - gcsfs==0.6.2
     - yfinance==0.1.54
+
