@@ -1,5 +1,8 @@
 # finance_playground
 
+#### Description
+This repo works as a collector of experiments related to analytics in finance.
+
 
 #### Install requirements
 
